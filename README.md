@@ -3,6 +3,9 @@
 ![11](https://user-images.githubusercontent.com/57030114/69795058-cad4b080-120e-11ea-9287-da1450a47bdf.PNG) ![22](https://user-images.githubusercontent.com/57030114/69795098-e2139e00-120e-11ea-8486-fc169e13ce84.PNG) ![33](https://user-images.githubusercontent.com/57030114/69795110-e8a21580-120e-11ea-97ab-61c09a133213.PNG)
 
 ------
+# 참여 인원 : 2명
+# 역할 : 라즈베리 제어, 웹 프로그래밍, 관련 자료수집
+------
 # 개발 목적
 * 예를 들어 비닐하우스, 와인창고 등과 같이 온도와 습도를 항상 일정하게 유지해야 하는 장소가 있으면 원격으로 온습도를 확인해야 할 경우가 있음.
 * 한시간 마다 자동으로 온습도를 기록해야 할 때가 있음.
